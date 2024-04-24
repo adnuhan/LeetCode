@@ -4,7 +4,7 @@
     >
 </h2>
 <h3>Easy</h3>
-<hr />
+<hr/>
 <div>
     <p>
     Given an integer array <code>nums</code> and an integer
