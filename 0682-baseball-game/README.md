@@ -18,7 +18,6 @@
   <ul>
     <li>
       An integer <code>x</code>.
-
       <ul>
         <li>Record a new score of <code>x</code>.</li>
       </ul>
