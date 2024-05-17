@@ -4,10 +4,10 @@ class Solution(object):
         :type s: List[str]
         :rtype: None Do not return anything, modify s in-place instead.
         """
-        last = len(s) - 1
-        add = ""
-        for i in range(last):
-            add = s[last]
-            s.insert(i, add)
+        last_index = len(s) - 1
+        word = ""
+        for i in range(last_index):
+            word = s[last_index]
+            s.insert(i, word)
             s.pop()
         
