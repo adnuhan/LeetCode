@@ -1,8 +1,5 @@
 ​<h2>
-  <a
-    href="https://leetcode.com/problems/minimum-string-length-after-removing-substrings/"
-    >2696. Minimum String Length After Removing Substrings</a
-  >
+  <a>href="https://leetcode.com/problems/minimum-string-length-after-removing-substrings/">2696. Minimum String Length After Removing Substrings</a>
 </h2>
 <h3>Easy</h3>
 <hr />
