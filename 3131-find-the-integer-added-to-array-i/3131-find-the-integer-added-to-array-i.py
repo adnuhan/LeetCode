@@ -5,5 +5,5 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: int
         """
-        return max(nums2) - max(nums1) 
+        return max(nums2) - max(nums1)
         
