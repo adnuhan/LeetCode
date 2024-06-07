@@ -20,9 +20,7 @@
 <pre><strong>Input:</strong> s = "()[]{}"
 <strong>Output:</strong> true
 </pre>
-
 <p><strong class="example">Example 3:</strong></p>
-
 <pre><strong>Input:</strong> s = "(]"
 <strong>Output:</strong> false
 </pre>
