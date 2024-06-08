@@ -4,6 +4,7 @@ class Solution(object):
         :type operations: List[str]
         :rtype: int
         """
+        
         record = []
         total = 0
         for i in operations:
