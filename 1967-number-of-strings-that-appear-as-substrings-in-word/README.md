@@ -1,4 +1,4 @@
-​<h2><ahref="https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/">1967. Number of Strings That Appear as Substrings in Word</a></h2><h3>Easy</h3><hr/>
+​<h2><a href="https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/">1967. Number of Strings That Appear as Substrings in Word</a></h2><h3>Easy</h3><hr/>
 <div>
   <p>
     Given an array of strings <code>patterns</code> and a string
