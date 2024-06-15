@@ -1,9 +1,4 @@
-​<h2>
-  <a
-    href="https://leetcode.com/problems/final-value-of-variable-after-performing-operations/"
-    >2011. Final Value of Variable After Performing Operations</a
-  >
-</h2>
+​<h2><a href="https://leetcode.com/problems/final-value-of-variable-after-performing-operations/">2011. Final Value of Variable After Performing Operations</a></h2>
 <h3>Easy</h3>
 <hr />
 <div>
