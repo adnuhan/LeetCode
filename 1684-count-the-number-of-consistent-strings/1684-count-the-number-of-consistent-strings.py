@@ -1,8 +1,8 @@
 class Solution:
     def countConsistentStrings(self, allowed: str, words: List[str]) -> int:
-        
-        output = 0
 
+        output = 0
+        
         for word in words:
             for letter in word:
                 if letter in allowed:
