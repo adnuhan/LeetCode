@@ -1,9 +1,4 @@
-<h2>
-  <a
-    href="https://leetcode.com/problems/count-the-number-of-consistent-strings/"
-    >1684. Count the Number of Consistent Strings</a
-  >
-</h2>
+<h2><a href="https://leetcode.com/problems/count-the-number-of-consistent-strings/">1684. Count the Number of Consistent Strings</a></h2>
 <h3>Easy</h3>
 <hr />
 <div>
