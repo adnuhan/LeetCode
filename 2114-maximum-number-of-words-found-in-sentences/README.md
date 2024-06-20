@@ -1,6 +1,6 @@
 ​<h2><a href="https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/">2114. Maximum Number of Words Found in Sentences</a</h2>
 <h3>Easy</h3>
-<hr />
+<hr/>
 <div>
   <p>
     A <strong>sentence</strong> is a list of <strong>words</strong> that are
