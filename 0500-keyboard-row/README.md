@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ed84e6da-8fdf-4eaa-92d6-b856a2d1d2e3)<div>
+<div>
   <h2>
     <a href="https://leetcode.com/problems/keyboard-row/">500. Keyboard Row</a>
   </h2>
