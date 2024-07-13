@@ -1,11 +1,6 @@
-​<div>
-  <h2>
-    <a href="https://leetcode.com/problems/height-checker/"
-      >1051. Height Checker</a
-    >
-  </h2>
-  <h3>Easy</h3>
-
+<h2><a href="https://leetcode.com/problems/height-checker/">1051. Height Checker</a></h2>
+<h3>Easy</h3>
+<div>
   <p>
     A school is trying to take an annual photo of all the students. The students
     are asked to stand in a single file line in
