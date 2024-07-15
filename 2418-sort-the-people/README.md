@@ -1,6 +1,4 @@
-​<h2>
-  <a href="https://leetcode.com/problems/sort-the-people/">2418. Sort the People</a>
-</h2>
+<h2><a href="https://leetcode.com/problems/sort-the-people/">2418. Sort the People</a></h2>
 <h3>Easy</h3>
 <div>
   <p>
