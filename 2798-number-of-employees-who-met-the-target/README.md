@@ -1,7 +1,6 @@
-​<h2>
-  <a href="https://leetcode.com/problems/number-of-employees-who-met-the-target/">2418. Sort the People</a>
-</h2>
+<h2><a href="https://leetcode.com/problems/number-of-employees-who-met-the-target/">2418. Sort the People</a></h2>
 <h3>Easy</h3>
+
 <div>
   <p>
     There are <code>n</code> employees in a company, numbered from
