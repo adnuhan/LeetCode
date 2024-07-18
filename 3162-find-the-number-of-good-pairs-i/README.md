@@ -6,19 +6,15 @@
     lengths <code>n</code> and <code>m</code> respectively. You are also given a
     <strong>positive</strong> integer <code>k</code>.
   </p>
-
   <p>
     A pair <code>(i, j)</code> is called <strong>good</strong> if
     <code>nums1[i]</code> is divisible by <code>nums2[j] * k</code> (<code
       >0 &lt;= i &lt;= n - 1</code
     >, <code>0 &lt;= j &lt;= m - 1</code>).
   </p>
-
   <p>Return the total number of <strong>good</strong> pairs.</p>
-
   <p>&nbsp;</p>
   <p><strong class="example">Example 1:</strong></p>
-
   <div class="example-block">
     <p>
       <strong>Input:</strong>
@@ -29,9 +25,7 @@
     The 5 good pairs are <code>(0, 0)</code>, <code>(1, 0)</code>,
     <code>(1, 1)</code>, <code>(2, 0)</code>, and <code>(2, 2)</code>.
   </div>
-
   <p><strong class="example">Example 2:</strong></p>
-
   <div class="example-block">
     <p>
       <strong>Input:</strong>
@@ -41,10 +35,8 @@
     <p><strong>Explanation:</strong></p>
     <p>The 2 good pairs are <code>(3, 0)</code> and <code>(3, 1)</code>.</p>
   </div>
-
   <p>&nbsp;</p>
   <p><strong>Constraints:</strong></p>
-
   <ul>
     <li><code>1 &lt;= n, m &lt;= 50</code></li>
     <li><code>1 &lt;= nums1[i], nums2[j] &lt;= 50</code></li>
