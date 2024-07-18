@@ -5,9 +5,6 @@ class Solution:
 
         for i in range(len(nums1)):
             for j in range(len(nums2)):
-                value = nums1[i]
-                value2 = nums2[j] * k
-                result = value % value2
                 if nums1[i] % (nums2[j] * k) == 0:
                     output += 1
 
