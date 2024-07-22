@@ -1,5 +1,4 @@
-​<h2><a href="https://leetcode.com/problems/shuffle-the-array/">1470. Shuffle the Array</a>
-</h2>
+​<h2><a href="https://leetcode.com/problems/shuffle-the-array/">1470. Shuffle the Array</a></h2>
 <h3>Easy</h3>
 <div>
   <p>
