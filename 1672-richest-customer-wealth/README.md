@@ -1,8 +1,6 @@
-​<h2>
-  <a href="https://leetcode.com/problems/number-of-good-pairs/">1512. Number of Good Pairs</a>
-</h2>
+​<h2><a href="https://leetcode.com/problems/number-of-good-pairs/">1512. Number of Good Pairs</a></h2>
 <h3>Easy</h3>
-<hr />
+<hr>
 <div>
   <p>
     You are given an <code>m x n</code> integer grid <code>accounts</code> where
