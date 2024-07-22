@@ -1,4 +1,4 @@
-​<h2><a href="https://leetcode.com/problems/number-of-good-pairs/">1512. Number of Good Pairs</a></h2>
+<h2><a href="https://leetcode.com/problems/number-of-good-pairs/">1512. Number of Good Pairs</a></h2>
 <h3>Easy</h3>
 <hr>
 <div>
