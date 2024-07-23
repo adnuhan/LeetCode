@@ -1,8 +1,5 @@
 <h2>
-  <a
-    href="https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/"
-    >2824. Count Pairs Whose Sum is Less than target</a
-  >
+  <a href="https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/">2824. Count Pairs Whose Sum is Less than target</a>
 </h2>
 <h3>Easy</h3>
 <hr />
