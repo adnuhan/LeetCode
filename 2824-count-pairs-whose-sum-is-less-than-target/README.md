@@ -1,6 +1,11 @@
-<h2><a href="https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/">2824. Count Pairs Whose Sum is Less than target</a</h2>
+<h2>
+  <a
+    href="https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/"
+    >2824. Count Pairs Whose Sum is Less than target</a
+  >
+</h2>
 <h3>Easy</h3>
-<hr/>
+<hr />
 <div>
   Given a <strong>0-indexed</strong> integer array <code>nums</code> of length
   <code>n</code> and an integer <code>target</code>, return
