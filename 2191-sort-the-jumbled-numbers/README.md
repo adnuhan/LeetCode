@@ -1,7 +1,7 @@
 <h2>
   <a href="https://leetcode.com/problems/sort-the-jumbled-numbers/">2191. Sort the Jumbled Numbers</a>
 </h2>
-<h3>Easy</h3>
+<h3>Medium</h3>
 <hr />
 <div>
   <p>
