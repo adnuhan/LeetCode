@@ -11,7 +11,7 @@ class Solution:
                 shuffled += str(mapping[int(num[y])])
             mapped.append(shuffled)
             shuffled = ""
-
+ 
         for z in sorted(range(len(mapped)), key=lambda k: int(mapped[k])):
             output.append(nums[z])
 
