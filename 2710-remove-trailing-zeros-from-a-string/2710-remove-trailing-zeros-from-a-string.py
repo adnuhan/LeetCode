@@ -9,4 +9,3 @@ class Solution:
             j -= 1
 
         return num[:j + 1]
-    
