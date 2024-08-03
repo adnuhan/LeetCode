@@ -3,9 +3,6 @@ class Solution:
         
         if len(s) <= 1:
             return True if s in t else False
-        
-        if len(s) > len(t):
-            return False
 
         i = 0
         
