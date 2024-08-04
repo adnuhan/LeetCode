@@ -3,7 +3,7 @@ class Solution:
         
         output = []
         add = 0
-        
+
         for i in range(len(nums)):
             output.append(nums[i])
             add = nums[i]
@@ -13,5 +13,5 @@ class Solution:
                 
             add = 0
         output.sort()
-        
+
         return sum(output[(left - 1):right]) % 1000000007
