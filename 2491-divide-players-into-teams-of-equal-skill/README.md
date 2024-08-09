@@ -1,5 +1,5 @@
 <h2>
-  <a href="https://leetcode.com/problems/divide-players-into-teams-of-equal-skill">2581. Divide Players Into Teams of Equal Skill</a>
+  <a href="https://leetcode.com/problems/divide-players-into-teams-of-equal-skill">2491. Divide Players Into Teams of Equal Skill</a>
 </h2>
 <h3>Medium</h3>
 <hr>
