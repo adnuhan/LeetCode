@@ -2,8 +2,7 @@ class Solution:
     def getEncryptedString(self, s: str, k: int) -> str:
         
         output = []
-        index = 0
-        
+
         if k > len(s):
             k = k % len(s)
 
